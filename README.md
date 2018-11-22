@@ -30,4 +30,3 @@
      * A learning objective: Perform exploratory data analysis using polygons to examine data missingness.
    * Lesson 4.3 - Putting it All Together
      * A learning objective: Use interactive web maps to explore and understand the properties of data.
-
