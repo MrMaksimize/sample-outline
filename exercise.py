@@ -15,7 +15,7 @@ def extract_gid():
     return "Successfully downloaded and wrote GID Requests to {}".format(TEMP_DIR)
 
 def transform_gid():
-    # Load the temporrary df that was downloaded.  Throw an error if not available.
+    # Load the temporary df that was downloaded.  Throw an error if not available.
     print("Loading raw requests")
     df = pd.read_csv("{}/requests_raw.csv".format(TEMP_DIR))
 
